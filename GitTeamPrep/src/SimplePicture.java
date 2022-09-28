@@ -14,6 +14,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		
 		System.out.println("WESBROOK");
+		System.out.println(".");
 	}
 	
 	public static void main(String[] args) {
