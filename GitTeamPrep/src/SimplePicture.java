@@ -17,6 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 		System.out.println("x");
 		System.out.println("xx");
 		System.out.println("xxx");
+		System.out.println("xxxx");
 	}
 	
 	public static void main(String[] args) {
