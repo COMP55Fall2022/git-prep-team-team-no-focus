@@ -1,5 +1,3 @@
-import acm.graphics.GImage;
-import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
 public class SimplePicture extends GraphicsProgram {
@@ -14,6 +12,12 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		final GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
+		
+		System.out.println("WESBROOK");
+		System.out.println("x");
+		System.out.println("xx");
+		System.out.println("xxx");
+		System.out.println("xxxx");
 	}
 	
 	public static void main(String[] args) {
