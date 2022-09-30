@@ -11,7 +11,7 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage("robot.png", 200, 200);
 		add(robot);
 
-		final GLabel label = new GLabel("[wesss]", 200, 400);
+		final GLabel label = new GLabel("mcchicken", 200, 400);
 		add(label);
 		
 		System.out.println("WESBROOK");
