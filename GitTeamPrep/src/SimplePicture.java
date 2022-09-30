@@ -10,7 +10,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 200);
 		add(robot);
-		final GLabel label = new GLabel("WES CHANGE", 200, 400);
+		final GLabel label = new GLabel("WES STEP 8", 200, 400);
 		add(label);
 		
 		System.out.println("WESBROOK");
