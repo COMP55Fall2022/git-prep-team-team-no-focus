@@ -10,11 +10,8 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 200);
 		add(robot);
-<<<<<<< HEAD
-		final GLabel label = new GLabel("MICHAEL CHANGE", 200, 400);
-=======
-		final GLabel label = new GLabel("WES STEP 8", 200, 400);
->>>>>>> branch 'main' of https://github.com/COMP55Fall2022/git-prep-team-team-no-focus.git
+
+		final GLabel label = new GLabel("[wesss]", 200, 400);
 		add(label);
 		
 		System.out.println("WESBROOK");
